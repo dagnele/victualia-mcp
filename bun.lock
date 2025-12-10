@@ -5,12 +5,12 @@
     "": {
       "name": "victualia-mcp",
       "dependencies": {
-        "@modelcontextprotocol/sdk": "latest",
-        "zod": "latest",
+        "@modelcontextprotocol/sdk": "^1.24.3",
+        "zod": "^4.1.13",
       },
       "devDependencies": {
-        "@types/bun": "latest",
-        "typescript": "latest",
+        "@types/bun": "^1.3.3",
+        "typescript": "^5.9.3",
       },
     },
   },
