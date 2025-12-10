@@ -15,6 +15,6 @@ export const config = {
   /** Server metadata */
   server: {
     name: "victualia-mcp",
-    version: "1.0.0",
+    version: "1.1.0",
   },
 } as const;
